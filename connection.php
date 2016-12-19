@@ -1,6 +1,11 @@
+// Database info omitted
+
+
+
+
 <?php
 
-    $link = mysqli_connect("localhost", "web222-fpdiary", "Gw4F!tGFt", "web222-fpdiary");
+    $link = mysqli_connect("localhost", "*********", "********", "**********");
         
         if (mysqli_connect_error()) {
             
