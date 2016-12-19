@@ -1,0 +1,149 @@
+
+
+
+.navbar{
+    border-radius: 0;
+    background-color: #00A4B4;
+    background: -webkit-linear-gradient(left,rgba(0,164,180,0),rgba(0,164,180,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(0,164,180,0),rgba(0,164,180,1)); /*Standard*/
+        
+}
+
+.footer{
+    background-color: #00A4B4;
+    background: -webkit-linear-gradient(left,rgba(0,164,180,0),rgba(0,164,180,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(0,164,180,0),rgba(0,164,180,1)); /*Standard*/ 
+}
+
+#inp{
+    
+    box-shadow: 10px 10px 5px #888888;
+    margin: 40px;
+    background-color: #00A4B4;
+    background: -webkit-linear-gradient(left,rgba(0,164,180,0),rgba(0,164,180,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(0,164,180,0),rgba(0,164,180,1)); /*Standard*/
+    
+}
+
+.btn {
+    background-color: #00A4B4;
+    background: -webkit-linear-gradient(left,rgba(0,164,180,0),rgba(0,164,180,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(0,164,180,0),rgba(0,164,180,1)); /*Standard*/
+    
+}
+
+.container {
+     
+     text-align: center;
+     width: 400px;
+     
+    
+      }
+
+#homePageContainer{
+   margin-top:80px; 
+}
+
+ #logInForm {
+              
+              display:none;
+              
+          }
+
+.toggleForms {
+              
+              font-weight: bold;
+              
+              
+          }
+
+
+#timer{
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
+
+#buttondiv{
+    float:left;
+    
+}
+
+
+#showLine{
+    
+    margin-left:50px;
+    margin-top:10px;
+    border-color: lightgrey;
+    background-color:white;
+   
+}
+
+
+
+#trivia{
+   float:left;
+    margin-left:50px;
+    margin-top:15px;
+    border-color: lightgrey;  
+     background-color: #00A4B4;
+    background: -webkit-linear-gradient(left,rgba(0,164,180,0),rgba(0,164,180,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(0,164,180,0),rgba(0,164,180,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(0,164,180,0),rgba(0,164,180,1)); /*Standard*/
+
+}
+
+
+#logoutbtn{
+    float:right;
+    margin-top:10px;
+    border-color: lightgrey;
+    background-color:white;
+    }
+
+
+#diary{
+    height:460px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:orange;
+    text-decoration: none;
+    
+}
+
+
+     
+          /* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
