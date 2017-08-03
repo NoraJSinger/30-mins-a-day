@@ -1,6 +1,6 @@
 # 30-mins-a-day
 
-To view go to: http://79.170.44.222/norazindahouse.com/diary or watch my CS50 Final Project video on https://www.youtube.com/watch?v=2PIFDCrWQhY
+To view go to: http://norajs.com/projects/30MinsADay/ or watch my CS50 Final Project video on https://www.youtube.com/watch?v=2PIFDCrWQhY
 
 
 
