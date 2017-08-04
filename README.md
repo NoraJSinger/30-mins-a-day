@@ -1,6 +1,6 @@
 # 30-mins-a-day
 
-To view go to: http://norajs.com/projects/30MinsADay/ or watch my CS50 Final Project video on https://www.youtube.com/watch?v=2PIFDCrWQhY
+To view go to: http://norajs.com/projects/30MinsADay/ or watch my CS50 Final Project video on https://www.youtube.com/watch?v=TM4DgI6hlUA&t=17s
 
 
 
